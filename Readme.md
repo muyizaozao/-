@@ -25,3 +25,25 @@
   2.特征匹配：<br>
      ![](https://github.com/muyizaozao/-/blob/master/%E7%89%B9%E5%BE%81%E5%8C%B9%E9%85%8D.png)<br>
  
+## 参考文献<br>
+---
+2.5参考文献
+[1]	Barnea D I , Silverman H F . A Class of Algorithms for Fast Digital Image Registration[J]. IEEE Transactions on Computers, 1972, C-21(2):179-186.<br>
+[2]	Moravec.  Rover  visual  obstacle  avoidance.  In  International  Joint  Conference  on 
+Artificial Intelligence, Vancouver, Canada, 1981. pp.785-790<br>
+[3]	Harris C G, Stephens M J. A Combined Corner and Edge Detector[C] Proceedings of the 4th Alvey Vision Conference. Manchester, England: 1988.<br>
+[4]	Smith S M, Brady J M. SUSAN—A New Approach to Low Level Image Processing[J]. International Journal of Computer Vision, 1997, 23(1):45-78.<br>
+[5]	Lowe D G . Object Recognition from Local Scale-Invariant Features[C]// iccv. IEEE Computer Society, 1999.<br>
+[6]	Bay H, Tuytelaars T, Gool L V. SURF: Speeded Up Robust Features[C]// European Conference on Computer Vision. 2006.<br>
+[7]	Rosten E , Drummond T . Machine Learning for High-Speed Corner Detection[C]// European Conference on Computer Vision. Springer, Berlin, Heidelberg, 2006.<br>
+[8]	Calonder M , Lepetit V , Fua P . BRIEF: Binary Robust Independent Elementary Features[J]. 2010.<br>
+[9]	Rublee E , Rabaud V , Konolige K , et al. ORB: An efficient alternative to SIFT or SURF[C]// 2011 International Conference on Computer Vision. IEEE, 2012.<br>
+[10]	Leutenegger S , Chli M , Siegwart R Y . BRISK: Binary Robust invariant scalable keypoints[C]// IEEE International Conference on Computer Vision, ICCV 2011, Barcelona, Spain, November 6-13, 2011. IEEE, 2011.<br>
+[11]	Alahi A , Ortiz R , Vandergheynst P . FREAK: Fast retina keypoint[C]// Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012.<br>
+[12]	Xu Z, Liu Y, Du S, et al. DFOB: Detecting and describing features by octagon filter bank for fast image matching[J]. Signal Processing Image Communication, 2016, 41:61-71.<br>
+[13]	Miao Z, Jiang X, Yap K H. Contrast Invariant Interest Point Detection by Zero-Norm LoG Filter[J]. IEEE Transactions on Image Processing A Publication of the IEEE Signal Processing Society, 2016, 25(1):331.<br>
+[14]	Canny J F. Finding Edges and Lines in Images[M]. 1983.<br>
+[15]	Canny J . A Computational Approach To Edge Detection[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 1986, PAMI-8(6):679-698.<br>
+[16]	Davies E R . A modified Hough scheme for general circle location[J]. Pattern Recognition Letters, 1988, 7(1):37-43.<br>
+[17]	Lipkin B S, Rosenfeld A. Picture Processing and Psychopictorics[J]. Transactions of the American Microscopical Society, 1970, 91(2).<br>
+[18]	Prescott J , Clary M , Wiet G , et al. Automatic registration of large set of microscopic images using high-level features[C]// IEEE International Symposium on Biomedical Imaging: Nano to Macro. IEEE Xplore, 2006.
