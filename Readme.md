@@ -20,5 +20,7 @@
   ![](https://github.com/muyizaozao/-/blob/master/%E5%9F%BA%E4%BA%8E%E7%81%B0%E5%BA%A6%E4%BF%A1%E6%81%AF.png)<br>
   基于特征点的图像配准流程主要有四步：特征提取、特征匹配、参数估计、图形变换。<br>
   1.特征提取：<br>
-  
+  ![]()<br>
+  ![]()<br>
+  ![]()<br>
  
